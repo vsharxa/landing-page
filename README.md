@@ -1,1 +1,1 @@
-# landing-page
+This landing page was made by using foundational concepts of CSS like flexbox, classes, divs, and other sorts of element styling.
