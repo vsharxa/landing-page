@@ -4,6 +4,6 @@ project to code a landing page from scratch by referencing this [design](https:/
 
 ### Skills Learned
 
--Coming more comfortable with the CSS Flexbox model
--Continuing to practice Git and Github project management
--Taking someone else's design and using HTML/CSS to make it happen
+- Coming more comfortable with the CSS Flexbox model
+- Continuing to practice Git and Github project management
+- Taking someone else's design and using HTML/CSS to make it happen
